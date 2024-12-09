@@ -48,11 +48,10 @@ export default tseslint.config({
   },
 })
 ```
-Below is an example of a well-structured `README.md` file explaining how to run a project, design choices, and assumptions/limitations:
 
 ---
 
-# Project Name
+# Assignment
 
 ## Table of Contents
 - [Introduction](#introduction)
